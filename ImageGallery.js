@@ -5,4 +5,5 @@ let on=(srcs)=>{
 let off=(src)=>
 {
     document.getElementById("image").style.display="none";
+
 }
